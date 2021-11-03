@@ -14,6 +14,6 @@ identifiers:
     type: doi
     value: 10.5281/zenodo.3783808
 doi: 10.5281/zenodo.3381898
-date-released: "2020-May"
+date-released: "2020-05-03"
 license: Mozilla Public License 2.0
 repository-code: "https://github.com/JuliaSmoothOptimizers/AMD.jl"
